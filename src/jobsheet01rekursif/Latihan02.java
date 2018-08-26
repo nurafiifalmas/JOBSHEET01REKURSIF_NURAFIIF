@@ -13,7 +13,7 @@ public class Latihan02 {
     
     if (a>0)
     {
-        System.out.println("Hai ");
+        System.out.println("SMK Telkom Malang");
         cetak(--a);
         
     }

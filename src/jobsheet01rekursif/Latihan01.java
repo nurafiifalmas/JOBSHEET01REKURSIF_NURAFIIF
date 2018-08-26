@@ -12,7 +12,7 @@ package jobsheet01rekursif;
 public class Latihan01 {
 public static void cetak(){
     
-        System.out.println("Hai");
+        System.out.println("SMK Telkom Malang");
         cetak();        
 }
     public static void main(String[] args) {
